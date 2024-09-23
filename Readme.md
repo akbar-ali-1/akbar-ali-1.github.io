@@ -1,11 +1,11 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://akbar-ali-1.github.io/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/akbar-ali-1/akbar-ali-1.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://akbar-ali-1.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/akbar-ali-06a54b1a/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
